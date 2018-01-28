@@ -1,0 +1,22 @@
+{
+  "version": "2.6.1",
+  "compilerOptions": {
+    "target": "es6",
+    "lib": [
+      "es5",
+      "es2016",
+      "es2017"
+    ],
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "removeComments": true,
+    "module": "commonjs",
+    "outDir": "./build/src",
+    //импорт модулей преобразуется в commonjs (node require)
+    "sourceMap": true,
+    "allowSyntheticDefaultImports": true,
+    //проект билдится из папки /src в папку /build/src
+    "rootDir": "src"
+  }
+}
