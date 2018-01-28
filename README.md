@@ -20,3 +20,6 @@ You can find DEMO [here](http://35.196.161.18)
 7. files will be served from folder `assets` which contains built react app
     * note: it's used CSRF token so don't forget paste into your html file `{csrfToken}` which will be replaced with token
 8. open http://localhost:3000
+
+### Client
+You can find react app for this project [here](https://github.com/TotallWAR/pokedex-client)
