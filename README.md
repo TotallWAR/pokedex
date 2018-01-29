@@ -9,7 +9,7 @@ too much information about one pokemon. API actions were optimized with promise.
 pokeapi.co's response time is still long. Data could be saved into postgresql
 and app would be much faster but it's outside of this task.
 
-You can find DEMO [here](http://35.196.161.18)
+You can find DEMO [here](http://35.229.90.40/)
 
 1. clone repository
 2. install postgresql and create db `todo`
